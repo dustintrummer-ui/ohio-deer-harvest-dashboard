@@ -36,6 +36,7 @@ NOAA Hurricane Data
 NOAA Hourly Ground forecast
 ODNR Weekly Harvest reports per season
 ODNR final Harvest report per season
+County Size and Public land amount -- Used approximate public land as it was hard to find without going county by county and digitally mapping from onx--
 
 ODNR was easily found on its webpage. The data is presented in a pdf form so no need for requesting the data. Just need to take it from pdf and convert into csv
 
@@ -49,5 +50,5 @@ Next NOAA hourly is a complex massive data set. With columns where the rows cont
 Side note: This has became a way bigger undertaking than I originally thought. Just one year of harvest data took longer than I thought. Orginally thought of doing a 10 year average but shifted to 3 year and updated the project. 
 
 Analyze:
-
+All 3 harvest data years are in there. Getting some clear pictures of lead counties and time periods. None of which are surprising. What I am going to do is help my outfitter pick 3 counties to start in. Give him his 5 premium week hunts and 5 to avoid. After we have that. I will go back and check weather patterns against those weeks historically and give predictions for weather to expect. 
 
