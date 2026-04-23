@@ -1,5 +1,3 @@
-> This project is part of the Apex Hunting Solutions Data Tools initiative — focused on turning hunting data into actionable decision tools.
-
 # Ohio Deer Harvest Dashboard
 
 A data-driven hunting tool designed to identify the best counties and time windows to hunt deer in Ohio based on historical harvest data.
@@ -14,7 +12,7 @@ A data-driven hunting tool designed to identify the best counties and time windo
 
 ## The Problem
 
-Most hunters rely on anecdotal advice when deciding where and when to hunt. 
+Most hunters rely on advice when deciding where and when to hunt. 
 While experience matters, there is very little accessible, structured data that helps hunters make informed decisions on timing and location.
 
 ---
@@ -31,7 +29,7 @@ The dashboard analyzes multi-year weekly harvest data to identify:
 - Weekly trends across multiple seasons  
 
 The goal is simple:  
-👉 Turn historical data into actionable hunting strategy.
+Turn historical data into actionable hunting strategy.
 
 ---
 
@@ -59,10 +57,10 @@ This project required building a full data pipeline from unstructured sources:
 
 ## Tech Stack
 
-- SQL (data aggregation and analysis)  
-- SQLite (data storage)  
-- HTML / CSS (frontend display)  
-- WordPress (deployment)  
+- SQL  
+- SQLite  
+- HTML / CSS   
+- WordPress   
 
 ---
 
