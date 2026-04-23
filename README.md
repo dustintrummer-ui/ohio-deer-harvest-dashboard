@@ -92,8 +92,14 @@ This project is part of the **Apex Hunting Solutions Data Tools initiative** —
 
 ## Screenshots
 
-*(Add dashboard screenshots here)*
+### Yearly Archery Harvest by County
+![Yearly Archery](assets/Yearly_Archery_By_County.png)
 
+### Top Ten Archery Counties
+![Top Ten Archery](assets/top_ten_archery.png)
+
+### Weekly Archery Trends
+![Weekly Archery](assets/weekly_archery.png)
 ---
 
 ## Takeaway
