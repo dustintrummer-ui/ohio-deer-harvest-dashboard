@@ -75,6 +75,14 @@ This project required building a full data pipeline from unstructured sources:
 
 ---
 
+## SQL Queries
+
+Core queries used to build the dashboard can be found here:
+
+📁 /queries/harvest_dashboard_queries.sql
+
+---
+
 ## Future Improvements
 
 - Expand dataset to 5+ years for stronger trend validation  
